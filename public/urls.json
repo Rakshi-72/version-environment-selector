@@ -1,23 +1,23 @@
 {
-  "dev": {
+  "DEV": {
     "default": "http://localhost:3000"
   },
-  "cit": {
-    "cit01": "http://example.com/cit01",
-    "cit02": "http://example.com/cit02",
-    "cit03": "http://example.com/cit03",
-    "cit04": "http://example.com/cit04"
+  "CIT": {
+    "CIT01": "http://example.com/CIT01",
+    "CIT02": "http://example.com/CIT02",
+    "CIT03": "http://example.com/CIT03",
+    "CIT04": "http://example.com/CIT04"
   },
-  "sit": {
-    "sit01": "http://example.com/sit01",
-    "sit02": "http://example.com/sit02",
-    "sit03": "http://example.com/sit03",
-    "sit04": "http://example.com/sit04"
+  "SIT": {
+    "SIT01": "http://example.com/SIT01",
+    "SIT02": "http://example.com/SIT02",
+    "SIT03": "http://example.com/SIT03",
+    "SIT04": "http://example.com/SIT04"
   },
-  "l&u": {
-    "l&u01": "http://example.com/lu01",
-    "l&u02": "http://example.com/lu02",
-    "l&u03": "http://example.com/lu03",
-    "l&u04": "http://example.com/lu04"
+  "L&U": {
+    "L&U01": "http://example.com/lu01",
+    "L&U02": "http://example.com/lu02",
+    "L&U03": "http://example.com/lu03",
+    "L&U04": "http://example.com/lu04"
   }
 }
